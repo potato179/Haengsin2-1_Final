@@ -1,5 +1,3 @@
 # Haengsin2nd_FinalEnglish
-영어 필기자료니까 잘쓰셈   
-2020년 행신중학교 2학년 기말고사를 위한 영어 필기자료(문법, 표현)   
-
-시험범위는 1~4단원, 문제수는 27문제고 모두 오지선답형으로 나오니까 참고바람
+행신중학교 2학년 기말을 위한 필기자료입니다. (동아출판-윤정미)    
+copyright by <a href = "GNU GENERAL PUBLIC LICENSE" target = "_blank">홍은표</a>. <a href = "https://github.com/potato179/Haengsin2-1_FinalEnglish/blob/master/LICENSE" target = "_blank">GNU GENERAL PUBLIC licensed.</a>
